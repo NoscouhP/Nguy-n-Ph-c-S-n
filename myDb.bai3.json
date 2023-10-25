@@ -1,0 +1,133 @@
+[{
+  "_id": 1,
+  "name": "Trần Thị Diệu Linh",
+  "Khoi": "A",
+  "Diem Thi": {
+    "Ly": 6,
+    "Toan": 7,
+    "Hoa": 8
+  }
+},
+{
+  "_id": 2,
+  "name": "Mai Thị Quỳnh",
+  "Khoi": "A",
+  "Diem Thi": {
+    "Van": 9,
+    "Toan": 18,
+    "Anh": 8
+  }
+},
+{
+  "_id": 3,
+  "name": "Trần Thị Chi",
+  "Khoi": "A1",
+  "Diem Thi": {
+    "Ly": 18,
+    "Toan": 7,
+    "Anh": 8
+  }
+},
+{
+  "_id": 4,
+  "name": "Trần Thị Thập",
+  "Khoi": "A1",
+  "Diem Thi": {
+    "Ly": 6,
+    "Toan": 7,
+    "Anh": 8
+  }
+},
+{
+  "_id": 5,
+  "name": "Nguyễn Thị Long",
+  "Khoi": "B",
+  "Diem Thi": {
+    "Toan": 6,
+    "Sinh": 4,
+    "Hoa": 8
+  }
+},
+{
+  "_id": 6,
+  "name": "Hoàng Thụy Hải",
+  "Khoi": "B",
+  "Diem Thi": {
+    "Toan": 9,
+    "Sinh": 4,
+    "Hoa": 10
+  }
+},
+{
+  "_id": 7,
+  "name": "Hoàng Thị Ti Ty",
+  "Khoi": "B",
+  "Diem Thi": {
+    "Toan": 5,
+    "Sinh": 18,
+    "Hoa": 8
+  }
+},
+{
+  "_id": 8,
+  "name": "Lê Thị Riêng",
+  "Khoi": "C",
+  "Diem Thi": {
+    "Van": 5,
+    "Su": 18,
+    "Dia": 10
+  }
+},
+{
+  "_id": 9,
+  "name": "Nguyễn Văn Chung",
+  "Khoi": "C",
+  "Diem Thi": {
+    "Van": 5,
+    "Su": 6,
+    "Dia": 10
+  }
+},
+{
+  "_id": 10,
+  "name": "Hoàng Thị Kiều",
+  "Khoi": "C",
+  "Diem Thi": {
+    "Van": 7,
+    "Su": 8,
+    "Dia": 10
+  }
+},
+{
+  "_id": 11,
+  "name": "Hoàng Công Danh",
+  "Khoi": "C",
+  "Diem Thi": {
+    "Van": 9,
+    "Su": 9,
+    "Dia": 10
+  }
+},
+{
+  "_id": 12,
+  "name": "Từ Văn Công",
+  "Khoi": "D",
+  "Diem Thi": {
+    "Van": 4,
+    "Toan": 2,
+    "Anh": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "65370e83b1df28e469cec45b"
+  },
+  " id": 13,
+  "name": "Lê Thị Thi",
+  "Khoi": "D",
+  "Diem Thi": {
+    "Van": 10,
+    "Toan": 18,
+    "Anh": 10
+  }
+}]
